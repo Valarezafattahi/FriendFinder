@@ -1,7 +1,7 @@
 var friendsArray = [
   {
     name: "Valareza Fattahi",
-    photo: "https://i.pinimg.com/280x280_RS/2e/3d/dc/2e3ddca4f7824a96df7a65da3c4a66dd.jpg",
+    photo: "https://media.licdn.com/dms/image/C5603AQG5wkHIdjcwnA/profile-displayphoto-shrink_200_200/0?e=1538611200&v=beta&t=6jMn9wBItyQJKajjdb3Y5G8lIzo_eBwcM6lW86KVIq8",
     scores: [
       "2",
       "4",
