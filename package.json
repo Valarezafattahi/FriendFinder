@@ -1,0 +1,16 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "\"FriendFinder\" or \"Find My Clone\" application is basically a dating app. This full-stack site will take in results from users surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Valareza Fattahi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
